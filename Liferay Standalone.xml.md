@@ -2,7 +2,7 @@
 ## Success
 Your application has been successfully imported.
 ###Display Blueprint Image 
-[![/Liferay Blueprint Deployment][wl]][wl]
+[![Liferay Blueprint Deployment][wl]][wl]
 
 For more information about this application visit <webpage link>
 
