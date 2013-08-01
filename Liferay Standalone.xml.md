@@ -1,5 +1,4 @@
-[wl]: https://raw.github.com/vmware-applicationdirector/solutions-import-beta/AD-ADFS-Blueprint/Liferay Blueprint Deployment.jpeg
-
+[wl]: https://github.com/jayashreeigate/TeseRepo4/blob/master/Liferay%20Blueprint%20Deployment.jpg
 ## Success
 Your application has been successfully imported.
 ###Display Blueprint Image 
